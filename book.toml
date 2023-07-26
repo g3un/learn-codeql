@@ -1,0 +1,6 @@
+[book]
+authors = ["g3un"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Learn CodeQL"
